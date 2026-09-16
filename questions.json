@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "question": "Why is the sky blue?",
+    "answer": "Sunlight looks white, but it's actually made of all the colors mixed together. When it hits our atmosphere, tiny air molecules scatter blue light much more than other colors, because blue light travels in shorter, smaller waves. That scattered blue light bounces around the sky and reaches your eyes from every direction — that's why the whole sky looks blue!"
+  },
+  {
+    "id": 2,
+    "question": "Why does a blue lamp kill microbes?",
+    "answer": "It's not the blue color itself — it's a special kind of blue-violet light called UV (ultraviolet) light. UV light carries extra energy that can damage the tiny 'instruction manuals' (DNA) inside bacteria and viruses. Without working instructions, the microbes can't survive or multiply, so the light kills them. That's why hospitals use special UV lamps to clean rooms and tools!"
+  },
+  {
+    "id": 3,
+    "question": "Why do we yawn?",
+    "answer": "Scientists aren't 100% sure, but the leading idea is that yawning helps cool down your brain! When you're tired or bored, your brain can get a little warm, and a big yawn pulls in cool air and stretches your jaw muscles, which helps regulate brain temperature. Yawning is also contagious — seeing someone yawn can make you yawn too, possibly because of empathy!"
+  },
+  {
+    "id": 4,
+    "question": "Why does ice float on water?",
+    "answer": "Most things sink when they freeze because they get denser, but water is special! When water freezes, its molecules arrange into a hexagonal pattern that actually takes up more space than liquid water, making ice less dense. Since less dense things float on denser things, ice floats. This is also why lakes freeze from the top down, letting fish survive underneath!"
+  },
+  {
+    "id": 5,
+    "question": "Why do stars twinkle?",
+    "answer": "Stars don't really blink — it just looks that way from Earth! Starlight travels through many layers of our atmosphere before reaching your eyes, and the air is always moving and mixing at different temperatures. This bends the starlight slightly in different directions, making stars appear to flicker or twinkle. Planets twinkle less because they're closer and look like tiny discs, not single points!"
+  },
+  {
+    "id": 6,
+    "question": "Why does a magnet stick to a fridge?",
+    "answer": "Magnets create an invisible force field called a magnetic field. Metals like iron (found in your fridge door) have tiny particles called electrons that can line up when a magnet gets close, turning that part of the fridge into a temporary mini-magnet too. The two magnetic fields then pull toward each other, making the magnet stick!"
+  },
+  {
+    "id": 7,
+    "question": "Why is the ocean salty?",
+    "answer": "Rain isn't pure water — as it falls and flows over rocks and soil on its way to rivers, it picks up tiny amounts of minerals and salt. Rivers carry this salt into the ocean every single day. Water evaporates from the ocean to form clouds, but the salt stays behind, so over millions of years, the ocean has become saltier and saltier!"
+  },
+  {
+    "id": 8,
+    "question": "Why do we get goosebumps?",
+    "answer": "Goosebumps happen when tiny muscles at the base of each hair pull it upright. Long ago, our furrier ancestors used this trick to trap warm air near their skin when cold, or to look bigger when scared. We don't have thick fur anymore, but our brains still send the same signal when we're cold, scared, or even hear amazing music!"
+  },
+  {
+    "id": 9,
+    "question": "Why does bread turn into toast?",
+    "answer": "When you heat bread, sugars and proteins in it go through something called the Maillard reaction. Heat makes these molecules rearrange and combine in new ways, creating hundreds of new flavor and aroma compounds — plus a golden-brown color! It's the same reaction that browns cookies, seared meat, and roasted coffee beans."
+  },
+  {
+    "id": 10,
+    "question": "Why can't we tickle ourselves?",
+    "answer": "Your brain has a part called the cerebellum that predicts the feeling of your own movements before they happen. When you try to tickle yourself, your brain already knows exactly where and when the touch will happen, so it cancels out the surprise. Tickling from someone else works because your brain can't predict their movements!"
+  }
+]
